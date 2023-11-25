@@ -1,0 +1,3 @@
+﻿  HW 29.11.cpp
+C:\Users\Rog\source\repos\HW 29.11\HW 29.11.cpp(110,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HW 29.11.vcxproj -> C:\Users\Rog\source\repos\HW 29.11\x64\Debug\HW 29.11.exe
